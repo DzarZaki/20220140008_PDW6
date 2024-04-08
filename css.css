@@ -1,0 +1,27 @@
+body {
+    background-image: url(3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0; /* Menambahkan margin 0 untuk menghapus margin bawaan dari browser */
+    padding: 0; /* Menambahkan padding 0 untuk menghapus padding bawaan dari browser */
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid gold;
+    background: black;
+    color: aqua;
+    box-shadow: 1px 1px 2px antiquewhite;
+    border-radius: 10px;
+    padding: 10px; /* Menyesuaikan padding untuk memberikan lebih banyak ruang di sekitar teks */
+    cursor: pointer;
+}
